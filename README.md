@@ -105,7 +105,7 @@ const String webPassword = "admin123";
 
 ## 📜 Lisans
 
-Bu proje MIT lisanslıdır.
+Bu proje Apache lisanslıdır.
 Kullan, dağıt, geliştir ama emeğe saygılı ol ❤
 
 ---
