@@ -34,7 +34,7 @@ Bu proje, bir **NodeMCU ESP8266** ile **16x2 LCD ekranı** WiFi üzerinden kontr
 
 ## 🔌 Devre Bağlantısı
 
-![Devre Şeması]([https://content.instructables.com/FXN/UFQ5/J4YFYB8H/FXNUFQ5J4YFYB8H.png?auto=webp&fit=bounds&frame=1])
+ <img src="([https://content.instructables.com/FXN/UFQ5/J4YFYB8H/FXNUFQ5J4YFYB8H.png?auto=webp&fit=bounds&frame=1])>
 
 | LCD Pin | NodeMCU Pin |
 | ------- | ----------- |
