@@ -1,4 +1,3 @@
-![LCD Web Panel](https://i.imgur.com/ogf8h0h.png)
 
 # 📏 NodeMCU LCD Web Panel
 
@@ -35,7 +34,7 @@ Bu proje, bir **NodeMCU ESP8266** ile **16x2 LCD ekranı** WiFi üzerinden kontr
 
 ## 🔌 Devre Bağlantısı
 
-![Devre Şeması]([https://devreyakan.com/wp-content/uploads/2022/05/esp8266_i2c_LCD.webp])
+![Devre Şeması]([https://content.instructables.com/FXN/UFQ5/J4YFYB8H/FXNUFQ5J4YFYB8H.png?auto=webp&fit=bounds&frame=1])
 
 | LCD Pin | NodeMCU Pin |
 | ------- | ----------- |
